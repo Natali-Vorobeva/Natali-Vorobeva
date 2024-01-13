@@ -1,7 +1,7 @@
-<!-- 
-<p align="left"> <img width="50px" src="https://media.tenor.com/3bz9_SSZgCMAAAAM/hello-hai.gif" alt="natali-vorobeva" /> </p> -->
 
-# Привет, меня зовут Наталья!
+<p align="left"> <img width="50px" src="https://media.tenor.com/3bz9_SSZgCMAAAAM/hello-hai.gif" alt="natali-vorobeva" /> </p>
+
+# Я - Наталья!
 <!-- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Natalia
 ===============================================================================================================================
 
@@ -9,14 +9,19 @@
 
 ---
 
-### :sun_with_face: Обо мне
-##### Я начинающий веб-разработчик. Свой путь в сфере it я начала в январе 2022 года с YouTube-канала по верстке. С сентября 2022 года по август 2023 года я изучала веб-разработку на курсах Яндекс Практикум <img src="https://media1.giphy.com/media/HoffxyN8ghVuw/200w.webp?cid=ecf05e4757b5gawms4lbkwalobv4shnpgkmudxhs5mm36top&ep=v1_gifs_search&rid=200w.webp&ct=g" width="30px">.
+### :sun_with_face:  :small_orange_diamond: :bookmark: Обо мне
+##### <img src="https://sun9-62.userapi.com/impf/FKTKB3JjuMYUJrDwQRIHc4HLiuMw4zANEyonyw/SmEBgSwXfhc.jpg?size=1920x768&quality=95&crop=0,18,1148,458&sign=1739b9f06a8e824d497226766e1e43b2&type=cover_group" width="100px"> Я начинающий веб-разработчик. Свой путь в сфере it я начала в январе 2022 года с YouTube-канала по верстке. С сентября 2022 года по август 2023 года я изучала веб-разработку на курсах Яндекс Практикум.
+
+ <!-- <img src="https://media1.giphy.com/media/HoffxyN8ghVuw/200w.webp?cid=ecf05e4757b5gawms4lbkwalobv4shnpgkmudxhs5mm36top&ep=v1_gifs_search&rid=200w.webp&ct=g" width="30px"> -->
+
+ ##### <img src="https://webmg.ru/wp-content/uploads/2022/10/176-20221013_161714.gif" width="50px">  Во время курсов участвовала в соревнованиях по верстке/
 
 <p align="center">
  <img width="600" src="assets/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
  
+##### 
 
 ##### Сейчас я ищу свою первую работу, участвую в двух проектах, изучаю Angular:
 
