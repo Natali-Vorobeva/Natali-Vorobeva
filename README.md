@@ -1,5 +1,5 @@
-
-<p align="left"> <img width="50px" src="https://media.tenor.com/3bz9_SSZgCMAAAAM/hello-hai.gif" alt="natali-vorobeva" /> </p>
+<!-- 
+<p align="left"> <img width="50px" src="https://media.tenor.com/3bz9_SSZgCMAAAAM/hello-hai.gif" alt="natali-vorobeva" /> </p> -->
 
 # Привет, меня зовут Наталья!
 <!-- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Natalia
@@ -10,22 +10,25 @@
 ---
 
 ### :sun_with_face: Обо мне
-##### Я начинающий веб-разработчик. Свой путь в сфере it я начала в январе 2022 года с YouTube-канала по верстке. С сентября 2022 года по август 2023 года я изучала веб-разработку на курсах Яндекс Практикум <img src="https://media1.giphy.com/media/HoffxyN8ghVuw/200w.webp?cid=ecf05e4757b5gawms4lbkwalobv4shnpgkmudxhs5mm36top&ep=v1_gifs_search&rid=200w.webp&ct=g" width="30px">.
-
-
-##### Сейчас я ищу свою первую работу, участвую в двух проектах, изучаю Angular:
-
-##### — :bulb: [Web-сервис по оформлению и управлению заказами на уборку](https://github.com/Cleanpro-Service)
-* ###### JavaScript
-##### — :zap: [Платформа для обучения добровольцев "ЛизаАлерт"](https://github.com/Studio-Yandex-Practicum/lizaalert_frontend).
-* ###### TypeScript
-* ###### Axios
-
-##### — :new: [<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> Angular-app-kugoo](https://github.com/Natali-Vorobeva/angular-app-kugoo)
+##### Я начинающий веб-разработчик. Свой путь в сфере it я начала в январе 2022 года с YouTube-канала по верстке. С сентября 2022 года по август 2023 года я изучала веб-разработку на курсах Яндекс Практикум.
 
 <p align="center">
  <img width="600" src="assets/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
+
+ <!-- <img src="https://media1.giphy.com/media/HoffxyN8ghVuw/200w.webp?cid=ecf05e4757b5gawms4lbkwalobv4shnpgkmudxhs5mm36top&ep=v1_gifs_search&rid=200w.webp&ct=g" width="30px"> -->
+
+##### Сейчас я ищу свою первую работу, участвую в двух проектах, изучаю Angular:
+
+##### :zap: [Web-сервис по оформлению и управлению заказами на уборку](https://github.com/Cleanpro-Service)
+* JavaScript
+##### :zap: [Платформа для обучения добровольцев "ЛизаАлерт"](https://github.com/Studio-Yandex-Practicum/lizaalert_frontend).
+* TypeScript
+* Axios
+
+##### :zap: [<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="20" height="20"/> Angular-app-kugoo](https://github.com/Natali-Vorobeva/angular-app-kugoo)
+
+
 ---
 
 <!-- ### Социальные сети
@@ -37,7 +40,7 @@
 		   
   </div> -->
 
-## - :mailbox: Как связаться со мной: 
+### - :mailbox: Как со мной связаться: 
 ![Static Badge](https://img.shields.io/badge/vorobjeva.natalia76%40yandex.ru-blue?style=social&logo=maildotru&logoColor=red&labelColor=orange&color=orange)
 <!-- ![Static Badge](https://img.shields.io/badge/vorobjeva.natalia76%40yandex.ru-orange?style=flat-square&logo=maildotru&logoColor=green) -->
 ![Static Badge](https://img.shields.io/badge/%40vorobjevaa-blue?style=social&logo=telegram&logoColor=blue)
