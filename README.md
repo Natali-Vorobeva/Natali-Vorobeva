@@ -10,13 +10,13 @@
 ---
 
 ### :sun_with_face: Обо мне
-##### Я начинающий веб-разработчик. Свой путь в сфере it я начала в январе 2022 года с YouTube-канала по верстке. С сентября 2022 года по август 2023 года я изучала веб-разработку на курсах Яндекс Практикум.
+##### Я начинающий веб-разработчик. Свой путь в сфере it я начала в январе 2022 года с YouTube-канала по верстке. С сентября 2022 года по август 2023 года я изучала веб-разработку на курсах Яндекс Практикум <img src="https://media1.giphy.com/media/HoffxyN8ghVuw/200w.webp?cid=ecf05e4757b5gawms4lbkwalobv4shnpgkmudxhs5mm36top&ep=v1_gifs_search&rid=200w.webp&ct=g" width="30px">.
 
 <p align="center">
  <img width="600" src="assets/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
- <!-- <img src="https://media1.giphy.com/media/HoffxyN8ghVuw/200w.webp?cid=ecf05e4757b5gawms4lbkwalobv4shnpgkmudxhs5mm36top&ep=v1_gifs_search&rid=200w.webp&ct=g" width="30px"> -->
+ 
 
 ##### Сейчас я ищу свою первую работу, участвую в двух проектах, изучаю Angular:
 
