@@ -6,7 +6,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Я - фронтенд-разработчик
 
 ### Обо мне
-##### Я то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-то
+Я начинающий веб-разработчик.Свой путь в сфере it начался в январе 2022 года с YouTube-канала, на котором изучала верстку. С августа 2022 года по августа 2023 года я изучала веб-разработку на курсах Яндекс Практикум <img src="https://media1.giphy.com/media/HoffxyN8ghVuw/200w.webp?cid=ecf05e4757b5gawms4lbkwalobv4shnpgkmudxhs5mm36top&ep=v1_gifs_search&rid=200w.webp&ct=g" width="30px">.
+
+##### Сейчас принимаю участие в двух проектах
+
+![snake_gif](https://github.com/Natali-Vorobeva/Natali-Vorobeva/blob/output/github-contribution-grid-snake.svg)
+
+
+<p align="center">
+ <img width="600" src="https://github.com/Natali-Vorobeva/Natali-Vorobeva/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+##### Я то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-то
+<!-- ##### Я то-то<img src="https://media2.giphy.com/media/KA593kO0JvXMs/200w.webp?cid=ecf05e4757b5gawms4lbkwalobv4shnpgkmudxhs5mm36top&ep=v1_gifs_search&rid=200w.webp&ct=g" width="30px"> и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-то -->
+<!-- ##### Я то-то<img src="https://media0.giphy.com/media/5WILqPq29TyIkVCSej/200.webp?cid=ecf05e47tb4yyi42sq6w24ih4vpc4jkcvofz22z65dxp9ios&ep=v1_gifs_related&rid=200.webp&ct=g" width="30px"> и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-тоЯ то-то и то-то -->
 
 
 ### Социальные сети
