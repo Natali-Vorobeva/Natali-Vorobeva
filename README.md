@@ -2,40 +2,36 @@
 <p align="left"> <img width="50px" src="https://media.tenor.com/3bz9_SSZgCMAAAAM/hello-hai.gif" alt="natali-vorobeva" /> </p> -->
 
 # Привет, я - Наталья!
-Фронтенд-разработчик
+## Фронтенд-разработчик
 
 ---
 
 ### :small_orange_diamond: :bookmark: Обо мне:
 ##### Я начинающий веб-разработчик. Свой путь в сфере IT начала в январе 2022 года с YouTube канала по вёрстке. С сентября 2022 года по август 2023 изучала веб-разработку на курсах Яндекс Практикум.
 
- ##### <img src="https://webmg.ru/wp-content/uploads/2022/10/176-20221013_161714.gif" width="50px">  Во время курсов участвовала в соревнованиях по верстке.
+ #### <img src="https://webmg.ru/wp-content/uploads/2022/10/176-20221013_161714.gif" width="50px">  Во время курсов участвовала в соревнованиях по верстке.
 
 <p align="center">
  <img width="600" src="assets/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
  
-##### 
+#### Сейчас я ищу свою первую работу, участвую в двух проектах, изучаю Angular:
 
-##### Сейчас я ищу свою первую работу, участвую в двух проектах, изучаю Angular:
-
-##### <img src="https://webmg.ru/wp-content/uploads/2022/10/176-20221013_161714.gif" width="20px">  [Web-сервис по оформлению и управлению заказами на уборку](https://github.com/Cleanpro-Service)
+#### <img src="https://webmg.ru/wp-content/uploads/2022/10/176-20221013_161714.gif" width="20px">  [Web-сервис по оформлению и управлению заказами на уборку](https://github.com/Cleanpro-Service)
 * JavaScript
-##### <img src="https://webmg.ru/wp-content/uploads/2022/10/176-20221013_161714.gif" width="20px"> [Платформа для обучения добровольцев "ЛизаАлерт"](https://github.com/Studio-Yandex-Practicum/lizaalert_frontend).
+#### <img src="https://webmg.ru/wp-content/uploads/2022/10/176-20221013_161714.gif" width="20px"> [Платформа для обучения добровольцев "ЛизаАлерт"](https://github.com/Studio-Yandex-Practicum/lizaalert_frontend).
 * TypeScript
 * Axios
 
-##### [<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="20" height="20"/> Angular-app-kugoo](https://github.com/Natali-Vorobeva/angular-app-kugoo)
+#### [<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="20" height="20"/> Angular-app-kugoo](https://github.com/Natali-Vorobeva/angular-app-kugoo)
 
 
 ---
 ### - :mailbox: Как со мной связаться: 
 ![Static Badge](https://img.shields.io/badge/vorobjeva.natalia76%40yandex.ru-blue?style=social&logo=maildotru&logoColor=red&labelColor=orange&color=orange)
-<!-- ![Static Badge](https://img.shields.io/badge/vorobjeva.natalia76%40yandex.ru-orange?style=flat-square&logo=maildotru&logoColor=green) -->
+
 ![Static Badge](https://img.shields.io/badge/%40vorobjevaa-blue?style=social&logo=telegram&logoColor=blue)
 
-
-![Static Badge](https://img.shields.io/badge/%2B7(911)208--04--79-orange?style=social&logo=whatsapp&logoColor=green)
 
 ![Static Badge](https://img.shields.io/badge/natali--fd-pink?style=social&logo=discord&logoColor=purple)
 
