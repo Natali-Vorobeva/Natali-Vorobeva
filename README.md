@@ -1,25 +1,19 @@
+<!-- 
+<p align="left"> <img width="50px" src="https://media.tenor.com/3bz9_SSZgCMAAAAM/hello-hai.gif" alt="natali-vorobeva" /> </p> -->
 
-<p align="left"> <img width="50px" src="https://media.tenor.com/3bz9_SSZgCMAAAAM/hello-hai.gif" alt="natali-vorobeva" /> </p>
-
-# Я - Наталья!
-<!-- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Natalia
-===============================================================================================================================
-
-Я - фронтенд-разраsunтчик -->
+# Привет, я - Наталья!
+Фронтенд-разработчик
 
 ---
 
 ### :small_orange_diamond: :bookmark: Обо мне:
-##### <img src="https://sun9-62.userapi.com/impf/FKTKB3JjuMYUJrDwQRIHc4HLiuMw4zANEyonyw/SmEBgSwXfhc.jpg?size=1920x768&quality=95&crop=0,18,1148,458&sign=1739b9f06a8e824d497226766e1e43b2&type=cover_group" width="100px"> Я начинающий веб-разработчик. Свой путь в сфере IT начала в январе 2022 года с YouTube канала по вёрстке. С сентября 2022 года по август 2023 изучала веб-разработку на курсах Яндекс Практикум.
-
- <!-- <img src="https://media1.giphy.com/media/HoffxyN8ghVuw/200w.webp?cid=ecf05e4757b5gawms4lbkwalobv4shnpgkmudxhs5mm36top&ep=v1_gifs_search&rid=200w.webp&ct=g" width="30px"> -->
+##### Я начинающий веб-разработчик. Свой путь в сфере IT начала в январе 2022 года с YouTube канала по вёрстке. С сентября 2022 года по август 2023 изучала веб-разработку на курсах Яндекс Практикум.
 
  ##### <img src="https://webmg.ru/wp-content/uploads/2022/10/176-20221013_161714.gif" width="50px">  Во время курсов участвовала в соревнованиях по верстке.
 
 <p align="center">
  <img width="600" src="assets/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
-
  
 ##### 
 
@@ -35,16 +29,6 @@
 
 
 ---
-
-<!-- ### Социальные сети
- <div id="badges">   
-    <a href="https://t.me/vorobjevaa" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a> 
-		<a  href="https://discord.com/users/natali_fd" target="_blank" rel="noreferrer"> <picture > <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img width="45" height="45" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a>
-		   
-  </div> -->
-
 ### - :mailbox: Как со мной связаться: 
 ![Static Badge](https://img.shields.io/badge/vorobjeva.natalia76%40yandex.ru-blue?style=social&logo=maildotru&logoColor=red&labelColor=orange&color=orange)
 <!-- ![Static Badge](https://img.shields.io/badge/vorobjeva.natalia76%40yandex.ru-orange?style=flat-square&logo=maildotru&logoColor=green) -->
@@ -60,7 +44,6 @@
 
 <div>
 <p align="left">
-
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
@@ -93,16 +76,12 @@
 ---
 ### ⚙️ GitHub статистика:
 
-<!-- <p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=natali-vorobeva&show_icons=true&locale=en&layout=compact" alt="natali-vorobeva" /></p> -->
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natali-vorobeva&show_icons=true&locale=en" alt="natali-vorobeva" /></p> -->
 <p    align="center">
 <a   align="center" href="http://www.github.com/natali-vorobeva"><img  align="center" src="https://github-readme-stats.vercel.app/api?username=natali-vorobeva&show_icons=true&hide=stars,issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="natali-vorobeva's GitHub stats" /></a>
 </p>
 <p    align="center">
 <a href="http://www.github.com/natali-vorobeva"><img src="https://github-readme-streak-stats.herokuapp.com/?user=natali-vorobeva&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
-<!-- <a href="http://www.github.com/natali-vorobeva"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=natali-vorobeva&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 <p    align="center">
 <a href="https://github.com/natali-vorobeva"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natali-vorobeva&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
